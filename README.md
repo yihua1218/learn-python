@@ -13,4 +13,5 @@
 1. [Python Developer’s Guide](https://devguide.python.org/)
 2. [Google's Python Class](https://developers.google.com/edu/python/)
 3. [Udemy: Python 深度學習](https://www.udemy.com/python-b/)
+4. [Python 基础教程(簡體中文)](http://www.runoob.com/python/python-tutorial.html)
 
