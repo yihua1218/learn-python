@@ -5,11 +5,7 @@ def perimeter(d):
   return d * math.pi
 
 def round_area(d):
-  # 
-  # 
-  # 
-  ans = ((d / 2) ** 2) * math.pi
-  return ans
+  return ((d / 2) ** 2) * math.pi
 
 
 sys.stdout.write("Input: ")
