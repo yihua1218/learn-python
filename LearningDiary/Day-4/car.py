@@ -1,4 +1,4 @@
-
+import json
 class MyCar:
   total = 0
   __color = ''
@@ -37,3 +37,10 @@ del red
 print(MyCar.howManyCars())
 
 # MyCar.show()
+
+# print(green.__dict__)
+# json.dump(red, "red.car")
+green_file = open("green.car", "w")
+yellow_file = open("yellow.car", "w")
+json.dump(green.__dict__, green_file)
+json.dump(yellow.__dict__, yellow_file)
