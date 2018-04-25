@@ -8,10 +8,15 @@
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
+## Flask
+
+A micro webdevelopment framework for Python.
+
+相關練習都放在 flask 目錄底下。
+
 ## 網路資源
 
 1. [Python Developer’s Guide](https://devguide.python.org/)
 2. [Google's Python Class](https://developers.google.com/edu/python/)
 3. [Udemy: Python 深度學習](https://www.udemy.com/python-b/)
 4. [Python 基础教程(簡體中文)](http://www.runoob.com/python/python-tutorial.html)
-
