@@ -1,5 +1,7 @@
 # Virtual Environment
 
+這禮拜練習使用 virtualenv 在 Mac OS 和 Windows 10 上面建立虛擬環境。
+
 ## Mac OS
 
 ```
