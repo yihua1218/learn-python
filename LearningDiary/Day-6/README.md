@@ -25,7 +25,6 @@ $ pip install Pillow
 
 ```
 $ pip install qrcode
-$ pip install colorama
 $ pip install Image
-$ pip install PIL
+$ qr "Hello Python" > test.png
 ```
