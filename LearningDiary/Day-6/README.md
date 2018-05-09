@@ -1,11 +1,22 @@
 # Virtual Environment
 
+## Mac OS
+
 ```
 $ pip install virtualenv
 $ virtualenv -p python3 day6
 $ source day6/bin/activate
-$ pip install pip-tools
 ```
+
+## Windows 10
+
+```
+$ pip install virtualenv
+$ virtualenv -p python day6
+$ cmd
+$ day6/scripts/activate
+```
+
 
 ## urlib3
 
