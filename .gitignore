@@ -4,3 +4,4 @@ venv
 .vscode
 day6
 LearningDiary/Day-7/day7
+*.pyc
