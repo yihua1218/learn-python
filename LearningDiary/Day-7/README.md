@@ -1,6 +1,7 @@
 # Beautiful Soup
 
 ``` bash
+$ source day6/bin/activate
 $ pip install beautifulsoup4
 ```
 
